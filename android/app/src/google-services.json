@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757299776433",
+    "project_id": "vocapp-9a924",
+    "storage_bucket": "vocapp-9a924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757299776433:android:84c2d80eaef69814a58b90",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757299776433-ucmmnuok2bevsmcskunukink4p52g0g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSEPshjRBPXyy3Vurx47N_Q6K3gt3e7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757299776433-ucmmnuok2bevsmcskunukink4p52g0g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
